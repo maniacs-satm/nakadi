@@ -1,0 +1,12 @@
+[
+  {
+    "schema": {
+      "not": {
+        "type": "string"
+      }
+    },
+    "errors": [
+      "Invalid schema: #/not is not allowed. All properties must be explicitly defined."
+    ]
+  }
+]
